@@ -1,4 +1,4 @@
-# Sleepy Pond - Sleep Monitoring Device
+# Sleepy Pond - Sleep Environmental Monitoring Device
 
 ## Introduction
 
