@@ -56,3 +56,6 @@ Sleepy Pond is a sleep monitoring aid and does not replace professional medical 
 For additional support or inquiries, contact our support team through the Sleepy Pond app.
 
 Sweet dreams and restful nights with Sleepy Pond! 🌙✨
+
+## Implementations
+- to adjust and exchange another speaker or sensor
