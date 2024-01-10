@@ -32,6 +32,9 @@ Sleepy Pond is a sleep monitoring device designed to track and analyze your slee
 
 4. **Monitoring Your Sleep:**
    - Sleepy Pond will automatically start monitoring your sleep when you go to bed. Review your sleep data in the app the next morning.
+  
+     ![Microphone test](https://github.com/ucfninf/Sleepy-Pond/assets/146268411/18182c8d-7e97-4528-8c42-8adc72767445)
+
 
 5. **Charging:**
    - Charge Sleepy Pond regularly to ensure uninterrupted sleep tracking.
