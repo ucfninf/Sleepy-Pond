@@ -3,6 +3,7 @@
 ## Introduction
 
 Sleepy Pond is a sleep monitoring device designed to track and analyze your sleep patterns, providing valuable insights into the quality of your sleep. By using various sensors and advanced algorithms, Sleepy Pond aims to help users improve their sleep hygiene and overall well-being.
+![IMG_0893](https://github.com/ucfninf/Sleepy-Pond/assets/146268411/b3a43c27-afd1-41b5-9c3e-3a8f9146c1a9)
 
 ## Features
 
@@ -51,11 +52,9 @@ Sleepy Pond prioritizes the privacy and security of your sleep data. All data is
 
 Sleepy Pond is a sleep monitoring aid and does not replace professional medical advice. Consult with a healthcare professional for any sleep-related health concerns.
 
-## Support
 
-For additional support or inquiries, contact our support team through the Sleepy Pond app.
+## Future Improvement
+- To adjust and exchange another speaker or sensor
+- 
 
-Sweet dreams and restful nights with Sleepy Pond! 🌙✨
-
-## Implementations
-- to adjust and exchange another speaker or sensor
+- Sweet dreams and restful nights with Sleepy Pond! 🌙✨
