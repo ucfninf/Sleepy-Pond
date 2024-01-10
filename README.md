@@ -66,8 +66,11 @@ The enclosure design is inspired by Asian water ponds, providing a visually appe
 ## Future Improvements
 
 1.Enhanced Sensor Sensitivity: Investigate and implement sensors with higher sensitivity, such as LM393, which detects sound intensity via a microphone. This will address the current limitations in detecting sudden sounds.
+
 2. Expanded Detection Range: Modify the system to detect environmental conditions over a larger area, enhancing the versatility of the sleep monitor.
+
 3. Advanced LED Light Effects: Introduce LED lights with adjustable color temperature and brightness to simulate the light of a sauna or Japanese garden, creating a more immersive and tranquil atmosphere.
+
 4. Integrated Sound Effect System: Incorporate a sound effect system that plays natural sounds, such as running water, birdsong, and steaming sauna steam. Users can choose sound effects according to their preferences, enhancing the overall sleep environment.
 
 
