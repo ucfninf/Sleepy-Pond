@@ -75,14 +75,14 @@ void loop() {
   Serial.print("LDR Value: ");
   Serial.println(lightIntensity);
 
-  // 其他代码...
+ 
 
   delay(3000);
 }
 
 void readSoundSensor() {
-  // 这是你之前提供的 readSoundSensor() 函数
-  // 你可以根据需要进行修改或者保留原样
+  // This is the readSoundSensor() function you provided before
+   // You can modify it as needed or leave it as is
 }
 
 // 控制 LED 条颜色和亮度的渐变效果

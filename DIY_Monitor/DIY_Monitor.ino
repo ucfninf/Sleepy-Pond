@@ -80,7 +80,7 @@ float volts = (noiseLevel * 5.0) / 1024.0;
       {
         signalMin = sample;  // save just the min levels
       }
-    }
+    } // This equation of Microphone capture sound has been referenced form blog.cdsn.net
   }
 
   peakToPeak = signalMax - signalMin;  // max - min = peak-peak amplitude
