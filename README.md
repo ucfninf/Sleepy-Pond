@@ -32,7 +32,7 @@ git clone https://github.com/your-username/sleep-environment-detector.git
 
 3. Connect the sensors and Neo Pixel Strips to your Arduino Uno following the provided circuit diagrams.
 
-4. Upload the `DIYMONITOR.ino` file to your Arduino Uno using the Arduino IDE. slight adjustment needed if your sensor is not MAX4466.
+4. Upload the `DIY_Monitor.ino` file to your Arduino Uno using the Arduino IDE. slight adjustment needed if your sensor is not MAX4466.
    ![circuit display](https://github.com/ucfninf/Sleepy-Pond/assets/146268411/93cda25c-6b24-444a-8331-b72fac1f32a4)
 Attached wire diagram
 
